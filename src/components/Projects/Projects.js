@@ -28,7 +28,7 @@ function Projects() {
               description="Developing a Hotel Management System website using React.js. This project integrates several modern web development tools to create a robust and user-friendly solution for managing hotel operations. For Testing use UserName: mm@test.com
  Password: 123"
               ghLink="https://github.com/Mohamedbelal17/HotalSystem"
-              demoLink="https://hotallogo.netlify.app/login"
+              demoLink="https://hotallogo.netlify.app/"
             />
           </Col>
 
