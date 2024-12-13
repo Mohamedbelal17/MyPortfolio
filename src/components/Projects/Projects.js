@@ -24,7 +24,7 @@ function Projects() {
             <ProjectCard
               imgPath={booking}
               isBlog={false}
-              title="Chatify"
+              title="HotalLogo"
               description="Developing a Hotel Management System website using React.js. This project integrates several modern web development tools to create a robust and user-friendly solution for managing hotel operations. For Testing use UserName: mm@test.com
  Password: 123"
               ghLink="https://github.com/Mohamedbelal17/HotalSystem"
@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={qualy}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Qubly"
               description="Develop responsive websites using React and Tailwind
 CSS.Expertise in delivering professional, high-quality web
 solutions tailored to client needs, ensuring optimal
