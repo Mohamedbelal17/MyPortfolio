@@ -8,6 +8,7 @@ import qualy from "../../Assets/Projects/qualy.PNG";
 import booking from "../../Assets/Projects/booking.PNG";
 import snake from "../../Assets/Projects/snack.PNG";
 import cac from "../../Assets/Projects/cac.PNG";
+import reservation from "../../Assets/Projects/reservation.PNG"
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -47,6 +48,18 @@ satisfaction"
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={reservation}
+              isBlog={false}
+              title="Booking-Hotel-Website"
+              description="The platformincludes a variety of advanced features aimed at providing aseamless and efficient user experience for managing hotelreservations 
+
+"
+              ghLink="https://github.com/Mohamedbelal17/Nextjs_Project"
+              demoLink="https://nextjs-project-ten-pink.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={pizza}

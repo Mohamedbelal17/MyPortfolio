@@ -10,7 +10,7 @@ import {
   DiGit,
   DiJava,
 } from "react-icons/di";
-import { SiRedis, SiNextdotjs, SiSolidity, SiPostgresql } from "react-icons/si";
+import { SiRedis, SiNextdotjs, SiSolidity, SiPostgresql , SiDocker } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -31,6 +31,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
